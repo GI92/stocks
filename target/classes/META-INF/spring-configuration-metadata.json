@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.stocks.configuration.ApplicationProperties",
+      "sourceType": "com.stocks.configuration.ApplicationProperties"
+    },
+    {
+      "name": "application.cache",
+      "type": "com.stocks.configuration.ApplicationProperties$Cache",
+      "sourceType": "com.stocks.configuration.ApplicationProperties",
+      "sourceMethod": "getCache()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

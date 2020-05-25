@@ -1,0 +1,12 @@
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\configuration\MyBasicAuthenticationEntryPoint.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\security\jwt\JWTFilter.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\security\jwt\TokenProvider.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\security\jwt\JWTConfigurer.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\configuration\ServletInitializer.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\web\rest\Designs.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\configuration\ApplicationProperties.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\web\rest\AuthenticationService.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\web\rest\vm\LoginVM.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\configuration\WebConfigurer.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\security\Authorities.java
+D:\Work\gamedesigns\src\main\java\com\gamedesigns\Application.java
